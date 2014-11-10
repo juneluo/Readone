@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer-list xmlns:Android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        Android:id="@+id/btn_round"
+        Android:drawable="@drawable/round"
+        Android:layout_height="50dp"
+        Android:layout_width="50dp"
+/>
+    <item
+        Android:id="@+id/btn_confirm"
+
+        Android:drawable="@drawable/confirm"
+        Android:left="5dp"
+        Android:right="5dp"
+        Android:top="5dp"
+        Android:bottom="5dp"
+ />
+
+</layer-list>
